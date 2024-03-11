@@ -3,15 +3,9 @@ class Program
 {
     public static void Main(String[] args)
     {
-
-
+        
     }
-
-    public static int Average(int[] tab)
-    {
-    private int sum;
-    
-    }
-
 }
+
+
 
